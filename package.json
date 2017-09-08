@@ -4,7 +4,7 @@
   "main": "./bot.js",
   "license": "MIT",
   "dependencies": {
-    "@quilt/quilt": "quilt/quilt"
+    "@quilt/quilt": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^4.3.0",
